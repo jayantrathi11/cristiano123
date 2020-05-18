@@ -1,9 +1,9 @@
 from flask import Flask, request, jsonify, render_template
-from nltk.corpus import wordnet
 import pandas as pd
 from nltk import word_tokenize
 from nltk import WordNetLemmatizer,pos_tag
 from nltk.corpus import stopwords
+from nltk.corpus import wordnet
 import string
 import numpy as np
 import pickle
