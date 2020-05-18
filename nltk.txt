@@ -1,2 +1,2 @@
-stopwords
-WordNet
+"stopwords"
+"WordNet"
