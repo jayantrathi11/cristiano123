@@ -1,4 +1,4 @@
+stopwords
 word_tokenize
 WordNetLemmatizer
 pos_tag
-stopwords
