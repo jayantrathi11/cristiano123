@@ -1,2 +1,2 @@
-Stopwords Corpus
+stopwords
 WordNet
